@@ -59,7 +59,7 @@ function DarkMode() {
           </h2>
           <p className="mt-2 text-[8px] text-neutral-400 dark:text-neutral-300">
             I swear to god theres always another AI dropping and twitter goes
-            crazy. Its all a myth guys. Like seriously, one day its Claude,
+            crazy.Its all a myth guys. Like seriously, one day its Claude,
             then GPT-4, then Gemini, then Claude 2, then GPT-4 Turbo. When will
             it end? Theyre all just fancy autocomplete.
           </p>
