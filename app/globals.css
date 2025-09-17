@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 :root {
-  --background: red;
+  --background: var(--color-neutral-600);
 }
 
 @custom-variant dark (&:where(.dark, .dark *));
@@ -18,7 +18,7 @@
   }
 }
 .dark {
-  --background: var(--color-yellow-400);
+  --background: var(--color-neutral-400);
 }
 
 @theme {

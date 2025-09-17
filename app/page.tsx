@@ -1,9 +1,8 @@
-import DarkMode from "../components/Dark-mode";
-
+import Grid from '@/components/Grid';
 export default function Home() {
   return (
     <div>
-      <DarkMode />
+      <Grid/>
     </div>
   );
 }
